@@ -1,0 +1,7 @@
+Metadata has information that is not relevant to the context of gap filling.
+
+Some variables from the Biomet data and others from the full output are required for gap-filling methane fluxes.
+
+Note: The fluxes used from the full output file are the "corrected gas fluxes".
+
+There are some other predictors of which we have no information: Snow Depth (SD), Water Table Depth (WTD), Net Energy Exchange (NEE), Ecosystem Respiration (Daytime and Nighttime: RECO_DT and RECO_NT), Gross Primary Productivity (Daytime and Nighttime: GPP_DT and GPP_NT), Soil Heat (G)
